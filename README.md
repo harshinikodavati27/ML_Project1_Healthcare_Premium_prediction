@@ -1,2 +1,2 @@
-# ML_Project1_Healthcare_Premium_prediction
-Codebasics ML_Project1_Healthcare_Premium_prediction
+# ml-project-premium-prediction
+Codebasics ML Course health insurance prediction project
